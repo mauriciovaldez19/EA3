@@ -1,0 +1,26 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="TP2_Analogica3_lib:cell_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+#include "C:/Users/Mauricio/Documents/ADS_Projects/Infineon_RF//circuit/models/RF.net"
+model MSub1 MSUB H=1.6 mm Er=4.3 Mur=1 Cond=1.0E+50 Hu=3.9e+034 mil T=0.05 mm TanD=0.002 Rough=0 mil DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+Port:TermG1  N__3 0 Num=1 Z=50 Ohm Noise=yes 
+Port:TermG2  N__4 0 Num=2 Z=50 Ohm Noise=yes 
+MLIN2:T_IN  N__3 N__5 Subst="MSub1" W=8.083 mm L=18.107 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:T_OUT  N__12 N__4 Subst="MSub1" W=2.705 mm L=18.992 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+C:C_IN  N__5 0 C=4.28 pF 
+C:C_OUT  N__4 0 C=2.1 pF 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=30 MHz Stop=10.0 GHz Step=10 MHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+#include "C:/Users/Mauricio/Documents/ADS_Projects/Infineon_RF//circuit/models/BFP640_cktName.net" 
+BFP640_cktName:SNP3 N__12 N__5 0 File="BFP640_VCE_1.5V_IC_37mA.s2p" Temp=25 InterpMode="linear" InterpDom="" ExtrapMode="constant" CheckPassivity=0 
