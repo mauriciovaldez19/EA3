@@ -154,7 +154,7 @@ instTextDeactiveColor 7
 moveVertexKeepRect 1
 useCrosshairCursor 0
 dragMoveHandle 0
-originDisplayOn 1
+originDisplayOn 0
 originColor 105
 physicalConnHighlightColor 4
 logicalConnHighlightColor 35

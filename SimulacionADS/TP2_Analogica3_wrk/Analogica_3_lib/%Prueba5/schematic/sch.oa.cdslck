@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Mauricio
+HostName                       DESKTOP-GOSAVR4
+ProcessIdentifier              1152
+ProcessCreationTime_UTC        1715286291
+ProcessCreationTime_Readable   05/09/24 17:24:51 Hora estándar de Argentina
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\Mauricio\Documents\ADS_Projects\ELECTRONICA-ANALOGICA-III-main\Analogica_3\Analogica_3_lib\%Prueba5\schematic\sch.oa.cdslck
+TimeEditLocked                 05/09/24 17:25:16 Hora estándar de Argentina

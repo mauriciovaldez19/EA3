@@ -1,4 +1,4 @@
 INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
-DEFINE TP2_Analogica3_lib TP2_Analogica3_lib
-ASSIGN TP2_Analogica3_lib libMode shared
+DEFINE Analogica_3_lib Analogica_3_lib
+ASSIGN Analogica_3_lib libMode shared
 INCLUDE $HOME/Infineon_RF/lib.defs

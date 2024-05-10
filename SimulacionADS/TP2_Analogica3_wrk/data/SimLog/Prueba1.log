@@ -1,0 +1,1704 @@
+
+hpeesofsim (*) 450.shp Jan 21 2016, MINT version 4
+    (64-bit windows built: 01/21/16 15:34:19)
+Copyright 1995 - 2015 Keysight Technologies, 1989-2016.
+
+
+OPTIM Optim1[1] <Analogica_3_lib:Prueba1:schematic>  optIter=(0->808)
+
+SP Optim1[1].SP1[0] <Analogica_3_lib:Prueba1:schematic>  optIter=0  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #0:
+  CurrentEF: 2.65186957458133
+  Optimization variables:
+    C_In.C = 4.439e-12
+    C_OUT.C = 2.655e-12
+    T_out.L = 19.86e-03
+    T_out.W = 3.208e-03
+    TL_in.L = 17.981e-03
+    TL_in.W = 9.434e-03
+
+SP Optim1[1].SP1[3] <Analogica_3_lib:Prueba1:schematic>  optIter=3  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #3:
+  CurrentEF: 2.60739711958757
+  Optimization variables:
+    C_In.C = 4.08791e-12
+    C_OUT.C = 4.02888e-12
+    T_out.L = 21.9243e-03
+    T_out.W = 3.61168e-03
+    TL_in.L = 15.8132e-03
+    TL_in.W = 9.24806e-03
+
+SP Optim1[1].SP1[7] <Analogica_3_lib:Prueba1:schematic>  optIter=7  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #7:
+  CurrentEF: 2.47936070155054
+  Optimization variables:
+    C_In.C = 3.51842e-12
+    C_OUT.C = 3.86723e-12
+    T_out.L = 20.3836e-03
+    T_out.W = 2.91189e-03
+    TL_in.L = 14.6893e-03
+    TL_in.W = 9.16214e-03
+
+SP Optim1[1].SP1[8] <Analogica_3_lib:Prueba1:schematic>  optIter=8  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #8:
+  CurrentEF: 2.42078067863746
+  Optimization variables:
+    C_In.C = 4.41932e-12
+    C_OUT.C = 3.56865e-12
+    T_out.L = 20.4413e-03
+    T_out.W = 3.07706e-03
+    TL_in.L = 15.3885e-03
+    TL_in.W = 9.54344e-03
+
+SP Optim1[1].SP1[12] <Analogica_3_lib:Prueba1:schematic>  optIter=12  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #12:
+  CurrentEF: 2.40770968314052
+  Optimization variables:
+    C_In.C = 4.23955e-12
+    C_OUT.C = 3.42487e-12
+    T_out.L = 21.2884e-03
+    T_out.W = 3.03145e-03
+    TL_in.L = 14.0439e-03
+    TL_in.W = 8.76792e-03
+
+SP Optim1[1].SP1[15] <Analogica_3_lib:Prueba1:schematic>  optIter=15  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #15:
+  CurrentEF: 2.40387200234252
+  Optimization variables:
+    C_In.C = 6.12475e-12
+    C_OUT.C = 3.33013e-12
+    T_out.L = 21.1763e-03
+    T_out.W = 2.495e-03
+    TL_in.L = 20.9783e-03
+    TL_in.W = 9.76604e-03
+
+SP Optim1[1].SP1[18] <Analogica_3_lib:Prueba1:schematic>  optIter=18  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #18:
+  CurrentEF: 2.33065848853314
+  Optimization variables:
+    C_In.C = 6.8321e-12
+    C_OUT.C = 3.91501e-12
+    T_out.L = 20.8663e-03
+    T_out.W = 2.5493e-03
+    TL_in.L = 20.964e-03
+    TL_in.W = 8.88819e-03
+
+SP Optim1[1].SP1[21] <Analogica_3_lib:Prueba1:schematic>  optIter=21  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #21:
+  CurrentEF: 2.30641194614385
+  Optimization variables:
+    C_In.C = 7.4092e-12
+    C_OUT.C = 3.94696e-12
+    T_out.L = 20.8616e-03
+    T_out.W = 2.37536e-03
+    TL_in.L = 21.3394e-03
+    TL_in.W = 8.97943e-03
+
+SP Optim1[1].SP1[22] <Analogica_3_lib:Prueba1:schematic>  optIter=22  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #22:
+  CurrentEF: 2.24867769494745
+  Optimization variables:
+    C_In.C = 5.2459e-12
+    C_OUT.C = 3.55458e-12
+    T_out.L = 21.1214e-03
+    T_out.W = 2.94498e-03
+    TL_in.L = 19.4808e-03
+    TL_in.W = 8.58598e-03
+
+SP Optim1[1].SP1[29] <Analogica_3_lib:Prueba1:schematic>  optIter=29  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #29:
+  CurrentEF: 2.24541887605049
+  Optimization variables:
+    C_In.C = 4.46685e-12
+    C_OUT.C = 3.38043e-12
+    T_out.L = 21.1822e-03
+    T_out.W = 3.07604e-03
+    TL_in.L = 18.6342e-03
+    TL_in.W = 8.85254e-03
+
+SP Optim1[1].SP1[31] <Analogica_3_lib:Prueba1:schematic>  optIter=31  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #31:
+  CurrentEF: 2.24491771289253
+  Optimization variables:
+    C_In.C = 4.61194e-12
+    C_OUT.C = 2.96723e-12
+    T_out.L = 21.2186e-03
+    T_out.W = 3.23717e-03
+    TL_in.L = 19.0293e-03
+    TL_in.W = 8.83157e-03
+
+SP Optim1[1].SP1[32] <Analogica_3_lib:Prueba1:schematic>  optIter=32  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #32:
+  CurrentEF: 2.21075546965198
+  Optimization variables:
+    C_In.C = 4.22908e-12
+    C_OUT.C = 2.93095e-12
+    T_out.L = 21.2769e-03
+    T_out.W = 3.27549e-03
+    TL_in.L = 18.6313e-03
+    TL_in.W = 8.98451e-03
+
+SP Optim1[1].SP1[34] <Analogica_3_lib:Prueba1:schematic>  optIter=34  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #34:
+  CurrentEF: 2.18700634198906
+  Optimization variables:
+    C_In.C = 2.27296e-12
+    C_OUT.C = 2.69591e-12
+    T_out.L = 21.5049e-03
+    T_out.W = 3.28998e-03
+    TL_in.L = 17.2794e-03
+    TL_in.W = 9.4459e-03
+
+SP Optim1[1].SP1[37] <Analogica_3_lib:Prueba1:schematic>  optIter=37  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #37:
+  CurrentEF: 2.17788455313384
+  Optimization variables:
+    C_In.C = 4.09966e-12
+    C_OUT.C = 2.83426e-12
+    T_out.L = 21.1141e-03
+    T_out.W = 3.04219e-03
+    TL_in.L = 19.1062e-03
+    TL_in.W = 9.29292e-03
+
+SP Optim1[1].SP1[41] <Analogica_3_lib:Prueba1:schematic>  optIter=41  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #41:
+  CurrentEF: 2.14481775233882
+  Optimization variables:
+    C_In.C = 4.05596e-12
+    C_OUT.C = 2.76237e-12
+    T_out.L = 21.2167e-03
+    T_out.W = 3.21667e-03
+    TL_in.L = 18.8719e-03
+    TL_in.W = 9.44457e-03
+
+SP Optim1[1].SP1[45] <Analogica_3_lib:Prueba1:schematic>  optIter=45  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #45:
+  CurrentEF: 2.11849419542519
+  Optimization variables:
+    C_In.C = 4.233e-12
+    C_OUT.C = 2.65151e-12
+    T_out.L = 21.2575e-03
+    T_out.W = 3.31369e-03
+    TL_in.L = 19.3977e-03
+    TL_in.W = 9.50588e-03
+
+SP Optim1[1].SP1[51] <Analogica_3_lib:Prueba1:schematic>  optIter=51  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #51:
+  CurrentEF: 2.09451162289516
+  Optimization variables:
+    C_In.C = 3.83388e-12
+    C_OUT.C = 2.82903e-12
+    T_out.L = 21.2266e-03
+    T_out.W = 3.26858e-03
+    TL_in.L = 19.5845e-03
+    TL_in.W = 9.51534e-03
+
+SP Optim1[1].SP1[56] <Analogica_3_lib:Prueba1:schematic>  optIter=56  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #56:
+  CurrentEF: 2.07673161861789
+  Optimization variables:
+    C_In.C = 3.71325e-12
+    C_OUT.C = 2.79298e-12
+    T_out.L = 21.2227e-03
+    T_out.W = 3.2948e-03
+    TL_in.L = 19.5609e-03
+    TL_in.W = 9.53606e-03
+
+SP Optim1[1].SP1[57] <Analogica_3_lib:Prueba1:schematic>  optIter=57  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #57:
+  CurrentEF: 2.06433489014307
+  Optimization variables:
+    C_In.C = 3.4141e-12
+    C_OUT.C = 2.6423e-12
+    T_out.L = 21.1448e-03
+    T_out.W = 3.37708e-03
+    TL_in.L = 19.5138e-03
+    TL_in.W = 9.67756e-03
+
+SP Optim1[1].SP1[61] <Analogica_3_lib:Prueba1:schematic>  optIter=61  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #61:
+  CurrentEF: 2.05490837718798
+  Optimization variables:
+    C_In.C = 3.52507e-12
+    C_OUT.C = 2.61953e-12
+    T_out.L = 21.1958e-03
+    T_out.W = 3.22189e-03
+    TL_in.L = 19.4673e-03
+    TL_in.W = 9.66922e-03
+
+SP Optim1[1].SP1[63] <Analogica_3_lib:Prueba1:schematic>  optIter=63  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #63:
+  CurrentEF: 2.04566788464647
+  Optimization variables:
+    C_In.C = 3.3983e-12
+    C_OUT.C = 2.58897e-12
+    T_out.L = 21.2409e-03
+    T_out.W = 3.16241e-03
+    TL_in.L = 19.4513e-03
+    TL_in.W = 9.77684e-03
+
+SP Optim1[1].SP1[64] <Analogica_3_lib:Prueba1:schematic>  optIter=64  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #64:
+  CurrentEF: 2.03939752245861
+  Optimization variables:
+    C_In.C = 3.49506e-12
+    C_OUT.C = 2.63035e-12
+    T_out.L = 21.143e-03
+    T_out.W = 3.17248e-03
+    TL_in.L = 19.6294e-03
+    TL_in.W = 9.71793e-03
+
+SP Optim1[1].SP1[68] <Analogica_3_lib:Prueba1:schematic>  optIter=68  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #68:
+  CurrentEF: 2.03733444530486
+  Optimization variables:
+    C_In.C = 3.47835e-12
+    C_OUT.C = 2.65682e-12
+    T_out.L = 21.1286e-03
+    T_out.W = 3.21873e-03
+    TL_in.L = 19.6352e-03
+    TL_in.W = 9.72248e-03
+
+SP Optim1[1].SP1[69] <Analogica_3_lib:Prueba1:schematic>  optIter=69  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #69:
+  CurrentEF: 2.03475768952025
+  Optimization variables:
+    C_In.C = 3.48614e-12
+    C_OUT.C = 2.69889e-12
+    T_out.L = 21.0981e-03
+    T_out.W = 3.2895e-03
+    TL_in.L = 19.7457e-03
+    TL_in.W = 9.78835e-03
+
+SP Optim1[1].SP1[71] <Analogica_3_lib:Prueba1:schematic>  optIter=71  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #71:
+  CurrentEF: 2.03361658520067
+  Optimization variables:
+    C_In.C = 3.5274e-12
+    C_OUT.C = 2.57819e-12
+    T_out.L = 21.1382e-03
+    T_out.W = 3.17558e-03
+    TL_in.L = 19.7365e-03
+    TL_in.W = 9.67848e-03
+
+SP Optim1[1].SP1[72] <Analogica_3_lib:Prueba1:schematic>  optIter=72  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #72:
+  CurrentEF: 2.02947587616469
+  Optimization variables:
+    C_In.C = 3.53456e-12
+    C_OUT.C = 2.57722e-12
+    T_out.L = 21.1035e-03
+    T_out.W = 3.14143e-03
+    TL_in.L = 19.7593e-03
+    TL_in.W = 9.6915e-03
+
+SP Optim1[1].SP1[73] <Analogica_3_lib:Prueba1:schematic>  optIter=73  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #73:
+  CurrentEF: 2.01862571977741
+  Optimization variables:
+    C_In.C = 3.4202e-12
+    C_OUT.C = 2.58823e-12
+    T_out.L = 21.2284e-03
+    T_out.W = 3.20885e-03
+    TL_in.L = 19.7307e-03
+    TL_in.W = 9.70329e-03
+
+SP Optim1[1].SP1[77] <Analogica_3_lib:Prueba1:schematic>  optIter=77  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #77:
+  CurrentEF: 2.0038624468412
+  Optimization variables:
+    C_In.C = 3.35657e-12
+    C_OUT.C = 2.57729e-12
+    T_out.L = 21.2465e-03
+    T_out.W = 3.27251e-03
+    TL_in.L = 19.7757e-03
+    TL_in.W = 9.72994e-03
+
+SP Optim1[1].SP1[82] <Analogica_3_lib:Prueba1:schematic>  optIter=82  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #82:
+  CurrentEF: 2.00108269056913
+  Optimization variables:
+    C_In.C = 3.30752e-12
+    C_OUT.C = 2.59975e-12
+    T_out.L = 21.2158e-03
+    T_out.W = 3.35779e-03
+    TL_in.L = 19.79e-03
+    TL_in.W = 9.72523e-03
+
+SP Optim1[1].SP1[83] <Analogica_3_lib:Prueba1:schematic>  optIter=83  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #83:
+  CurrentEF: 1.99913180518652
+  Optimization variables:
+    C_In.C = 3.28169e-12
+    C_OUT.C = 2.56673e-12
+    T_out.L = 21.203e-03
+    T_out.W = 3.33542e-03
+    TL_in.L = 19.8089e-03
+    TL_in.W = 9.7286e-03
+
+SP Optim1[1].SP1[84] <Analogica_3_lib:Prueba1:schematic>  optIter=84  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #84:
+  CurrentEF: 1.97912085883197
+  Optimization variables:
+    C_In.C = 3.2812e-12
+    C_OUT.C = 2.51823e-12
+    T_out.L = 21.2079e-03
+    T_out.W = 3.25491e-03
+    TL_in.L = 19.8359e-03
+    TL_in.W = 9.73077e-03
+
+SP Optim1[1].SP1[85] <Analogica_3_lib:Prueba1:schematic>  optIter=85  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #85:
+  CurrentEF: 1.97775027845298
+  Optimization variables:
+    C_In.C = 3.21546e-12
+    C_OUT.C = 2.35924e-12
+    T_out.L = 21.2231e-03
+    T_out.W = 3.09861e-03
+    TL_in.L = 20.0736e-03
+    TL_in.W = 9.80145e-03
+
+SP Optim1[1].SP1[87] <Analogica_3_lib:Prueba1:schematic>  optIter=87  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #87:
+  CurrentEF: 1.97538429742137
+  Optimization variables:
+    C_In.C = 3.25729e-12
+    C_OUT.C = 2.4794e-12
+    T_out.L = 21.294e-03
+    T_out.W = 3.31968e-03
+    TL_in.L = 20.0464e-03
+    TL_in.W = 9.79818e-03
+
+SP Optim1[1].SP1[88] <Analogica_3_lib:Prueba1:schematic>  optIter=88  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #88:
+  CurrentEF: 1.94782399926569
+  Optimization variables:
+    C_In.C = 3.19619e-12
+    C_OUT.C = 2.50666e-12
+    T_out.L = 21.1999e-03
+    T_out.W = 3.36593e-03
+    TL_in.L = 20.1078e-03
+    TL_in.W = 9.83378e-03
+
+SP Optim1[1].SP1[92] <Analogica_3_lib:Prueba1:schematic>  optIter=92  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #92:
+  CurrentEF: 1.92920100872381
+  Optimization variables:
+    C_In.C = 3.08507e-12
+    C_OUT.C = 2.50141e-12
+    T_out.L = 21.2238e-03
+    T_out.W = 3.44959e-03
+    TL_in.L = 20.4129e-03
+    TL_in.W = 9.97616e-03
+
+SP Optim1[1].SP1[93] <Analogica_3_lib:Prueba1:schematic>  optIter=93  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #93:
+  CurrentEF: 1.92452908345001
+  Optimization variables:
+    C_In.C = 2.9712e-12
+    C_OUT.C = 2.52695e-12
+    T_out.L = 21.2697e-03
+    T_out.W = 3.59081e-03
+    TL_in.L = 20.8143e-03
+    TL_in.W = 10.207e-03
+
+SP Optim1[1].SP1[105] <Analogica_3_lib:Prueba1:schematic>  optIter=105  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #105:
+  CurrentEF: 1.9219281185306
+  Optimization variables:
+    C_In.C = 2.95886e-12
+    C_OUT.C = 2.50994e-12
+    T_out.L = 21.1968e-03
+    T_out.W = 3.53919e-03
+    TL_in.L = 20.7737e-03
+    TL_in.W = 10.2295e-03
+
+SP Optim1[1].SP1[106] <Analogica_3_lib:Prueba1:schematic>  optIter=106  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #106:
+  CurrentEF: 1.9215469870538
+  Optimization variables:
+    C_In.C = 2.87755e-12
+    C_OUT.C = 2.50773e-12
+    T_out.L = 21.218e-03
+    T_out.W = 3.66889e-03
+    TL_in.L = 20.9232e-03
+    TL_in.W = 10.2572e-03
+
+SP Optim1[1].SP1[110] <Analogica_3_lib:Prueba1:schematic>  optIter=110  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #110:
+  CurrentEF: 1.92119009750518
+  Optimization variables:
+    C_In.C = 2.88055e-12
+    C_OUT.C = 2.53904e-12
+    T_out.L = 21.2199e-03
+    T_out.W = 3.68013e-03
+    TL_in.L = 20.8561e-03
+    TL_in.W = 10.2816e-03
+
+SP Optim1[1].SP1[112] <Analogica_3_lib:Prueba1:schematic>  optIter=112  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #112:
+  CurrentEF: 1.91844798753103
+  Optimization variables:
+    C_In.C = 2.85755e-12
+    C_OUT.C = 2.52719e-12
+    T_out.L = 21.2421e-03
+    T_out.W = 3.70879e-03
+    TL_in.L = 20.8917e-03
+    TL_in.W = 10.2969e-03
+
+SP Optim1[1].SP1[114] <Analogica_3_lib:Prueba1:schematic>  optIter=114  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #114:
+  CurrentEF: 1.91038687473056
+  Optimization variables:
+    C_In.C = 2.76485e-12
+    C_OUT.C = 2.50613e-12
+    T_out.L = 21.2526e-03
+    T_out.W = 3.78331e-03
+    TL_in.L = 21.0311e-03
+    TL_in.W = 10.3773e-03
+
+SP Optim1[1].SP1[116] <Analogica_3_lib:Prueba1:schematic>  optIter=116  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #116:
+  CurrentEF: 1.90855798062556
+  Optimization variables:
+    C_In.C = 2.84732e-12
+    C_OUT.C = 2.53978e-12
+    T_out.L = 21.2588e-03
+    T_out.W = 3.69629e-03
+    TL_in.L = 20.8023e-03
+    TL_in.W = 10.2766e-03
+
+SP Optim1[1].SP1[119] <Analogica_3_lib:Prueba1:schematic>  optIter=119  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #119:
+  CurrentEF: 1.90448922115054
+  Optimization variables:
+    C_In.C = 2.86464e-12
+    C_OUT.C = 2.53769e-12
+    T_out.L = 21.2719e-03
+    T_out.W = 3.68706e-03
+    TL_in.L = 20.7815e-03
+    TL_in.W = 10.2746e-03
+
+SP Optim1[1].SP1[124] <Analogica_3_lib:Prueba1:schematic>  optIter=124  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #124:
+  CurrentEF: 1.90365799453621
+  Optimization variables:
+    C_In.C = 2.82947e-12
+    C_OUT.C = 2.5456e-12
+    T_out.L = 21.2683e-03
+    T_out.W = 3.71784e-03
+    TL_in.L = 20.7993e-03
+    TL_in.W = 10.2799e-03
+
+SP Optim1[1].SP1[134] <Analogica_3_lib:Prueba1:schematic>  optIter=134  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #134:
+  CurrentEF: 1.90232797844844
+  Optimization variables:
+    C_In.C = 2.83005e-12
+    C_OUT.C = 2.54555e-12
+    T_out.L = 21.266e-03
+    T_out.W = 3.7168e-03
+    TL_in.L = 20.7991e-03
+    TL_in.W = 10.2803e-03
+
+SP Optim1[1].SP1[135] <Analogica_3_lib:Prueba1:schematic>  optIter=135  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #135:
+  CurrentEF: 1.90092173932341
+  Optimization variables:
+    C_In.C = 2.82966e-12
+    C_OUT.C = 2.54705e-12
+    T_out.L = 21.2667e-03
+    T_out.W = 3.71885e-03
+    TL_in.L = 20.7992e-03
+    TL_in.W = 10.2782e-03
+
+SP Optim1[1].SP1[146] <Analogica_3_lib:Prueba1:schematic>  optIter=146  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #146:
+  CurrentEF: 1.90090329976697
+  Optimization variables:
+    C_In.C = 2.82943e-12
+    C_OUT.C = 2.54753e-12
+    T_out.L = 21.2668e-03
+    T_out.W = 3.71879e-03
+    TL_in.L = 20.7987e-03
+    TL_in.W = 10.2778e-03
+
+SP Optim1[1].SP1[148] <Analogica_3_lib:Prueba1:schematic>  optIter=148  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #148:
+  CurrentEF: 1.90089502009469
+  Optimization variables:
+    C_In.C = 2.82917e-12
+    C_OUT.C = 2.54736e-12
+    T_out.L = 21.2665e-03
+    T_out.W = 3.71871e-03
+    TL_in.L = 20.7988e-03
+    TL_in.W = 10.2779e-03
+
+SP Optim1[1].SP1[149] <Analogica_3_lib:Prueba1:schematic>  optIter=149  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #149:
+  CurrentEF: 1.90088915445023
+  Optimization variables:
+    C_In.C = 2.82897e-12
+    C_OUT.C = 2.54714e-12
+    T_out.L = 21.2664e-03
+    T_out.W = 3.71886e-03
+    TL_in.L = 20.799e-03
+    TL_in.W = 10.278e-03
+
+SP Optim1[1].SP1[213] <Analogica_3_lib:Prueba1:schematic>  optIter=213  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #213:
+  CurrentEF: 1.90087741488023
+  Optimization variables:
+    C_In.C = 2.82807e-12
+    C_OUT.C = 2.54711e-12
+    T_out.L = 21.2662e-03
+    T_out.W = 3.7197e-03
+    TL_in.L = 20.8001e-03
+    TL_in.W = 10.2786e-03
+
+SP Optim1[1].SP1[214] <Analogica_3_lib:Prueba1:schematic>  optIter=214  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #214:
+  CurrentEF: 1.90086308814165
+  Optimization variables:
+    C_In.C = 2.82835e-12
+    C_OUT.C = 2.54744e-12
+    T_out.L = 21.2659e-03
+    T_out.W = 3.72003e-03
+    TL_in.L = 20.8013e-03
+    TL_in.W = 10.2786e-03
+
+SP Optim1[1].SP1[215] <Analogica_3_lib:Prueba1:schematic>  optIter=215  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #215:
+  CurrentEF: 1.90079104925327
+  Optimization variables:
+    C_In.C = 2.82671e-12
+    C_OUT.C = 2.54701e-12
+    T_out.L = 21.2644e-03
+    T_out.W = 3.71902e-03
+    TL_in.L = 20.7999e-03
+    TL_in.W = 10.2795e-03
+
+SP Optim1[1].SP1[224] <Analogica_3_lib:Prueba1:schematic>  optIter=224  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #224:
+  CurrentEF: 1.90058474138871
+  Optimization variables:
+    C_In.C = 2.82612e-12
+    C_OUT.C = 2.54727e-12
+    T_out.L = 21.2633e-03
+    T_out.W = 3.71878e-03
+    TL_in.L = 20.8005e-03
+    TL_in.W = 10.2798e-03
+
+SP Optim1[1].SP1[228] <Analogica_3_lib:Prueba1:schematic>  optIter=228  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #228:
+  CurrentEF: 1.9005622245194
+  Optimization variables:
+    C_In.C = 2.82486e-12
+    C_OUT.C = 2.54715e-12
+    T_out.L = 21.2627e-03
+    T_out.W = 3.7186e-03
+    TL_in.L = 20.8009e-03
+    TL_in.W = 10.28e-03
+
+SP Optim1[1].SP1[229] <Analogica_3_lib:Prueba1:schematic>  optIter=229  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #229:
+  CurrentEF: 1.90037909610357
+  Optimization variables:
+    C_In.C = 2.82221e-12
+    C_OUT.C = 2.54662e-12
+    T_out.L = 21.2593e-03
+    T_out.W = 3.71694e-03
+    TL_in.L = 20.8003e-03
+    TL_in.W = 10.281e-03
+
+SP Optim1[1].SP1[231] <Analogica_3_lib:Prueba1:schematic>  optIter=231  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #231:
+  CurrentEF: 1.90030892464287
+  Optimization variables:
+    C_In.C = 2.82173e-12
+    C_OUT.C = 2.54657e-12
+    T_out.L = 21.2585e-03
+    T_out.W = 3.71645e-03
+    TL_in.L = 20.7996e-03
+    TL_in.W = 10.2807e-03
+
+SP Optim1[1].SP1[234] <Analogica_3_lib:Prueba1:schematic>  optIter=234  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #234:
+  CurrentEF: 1.90009006104393
+  Optimization variables:
+    C_In.C = 2.81438e-12
+    C_OUT.C = 2.54563e-12
+    T_out.L = 21.2523e-03
+    T_out.W = 3.71268e-03
+    TL_in.L = 20.7971e-03
+    TL_in.W = 10.2809e-03
+
+SP Optim1[1].SP1[235] <Analogica_3_lib:Prueba1:schematic>  optIter=235  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #235:
+  CurrentEF: 1.90002832180178
+  Optimization variables:
+    C_In.C = 2.81089e-12
+    C_OUT.C = 2.545e-12
+    T_out.L = 21.2497e-03
+    T_out.W = 3.71123e-03
+    TL_in.L = 20.7963e-03
+    TL_in.W = 10.281e-03
+
+SP Optim1[1].SP1[236] <Analogica_3_lib:Prueba1:schematic>  optIter=236  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #236:
+  CurrentEF: 1.90000223703948
+  Optimization variables:
+    C_In.C = 2.81202e-12
+    C_OUT.C = 2.54507e-12
+    T_out.L = 21.2507e-03
+    T_out.W = 3.71219e-03
+    TL_in.L = 20.7977e-03
+    TL_in.W = 10.2812e-03
+
+SP Optim1[1].SP1[237] <Analogica_3_lib:Prueba1:schematic>  optIter=237  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #237:
+  CurrentEF: 1.89974435500652
+  Optimization variables:
+    C_In.C = 2.80786e-12
+    C_OUT.C = 2.5444e-12
+    T_out.L = 21.2458e-03
+    T_out.W = 3.70924e-03
+    TL_in.L = 20.7945e-03
+    TL_in.W = 10.2807e-03
+
+SP Optim1[1].SP1[239] <Analogica_3_lib:Prueba1:schematic>  optIter=239  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #239:
+  CurrentEF: 1.89958772367834
+  Optimization variables:
+    C_In.C = 2.80442e-12
+    C_OUT.C = 2.54379e-12
+    T_out.L = 21.2423e-03
+    T_out.W = 3.70652e-03
+    TL_in.L = 20.7919e-03
+    TL_in.W = 10.2798e-03
+
+SP Optim1[1].SP1[246] <Analogica_3_lib:Prueba1:schematic>  optIter=246  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #246:
+  CurrentEF: 1.89925435656385
+  Optimization variables:
+    C_In.C = 2.79737e-12
+    C_OUT.C = 2.54255e-12
+    T_out.L = 21.2348e-03
+    T_out.W = 3.70144e-03
+    TL_in.L = 20.7879e-03
+    TL_in.W = 10.2793e-03
+
+SP Optim1[1].SP1[252] <Analogica_3_lib:Prueba1:schematic>  optIter=252  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #252:
+  CurrentEF: 1.89913595649382
+  Optimization variables:
+    C_In.C = 2.79454e-12
+    C_OUT.C = 2.54177e-12
+    T_out.L = 21.2318e-03
+    T_out.W = 3.69964e-03
+    TL_in.L = 20.7877e-03
+    TL_in.W = 10.2795e-03
+
+SP Optim1[1].SP1[253] <Analogica_3_lib:Prueba1:schematic>  optIter=253  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #253:
+  CurrentEF: 1.8982344147717
+  Optimization variables:
+    C_In.C = 2.77257e-12
+    C_OUT.C = 2.53719e-12
+    T_out.L = 21.2093e-03
+    T_out.W = 3.6846e-03
+    TL_in.L = 20.779e-03
+    TL_in.W = 10.279e-03
+
+SP Optim1[1].SP1[256] <Analogica_3_lib:Prueba1:schematic>  optIter=256  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #256:
+  CurrentEF: 1.89803514823119
+  Optimization variables:
+    C_In.C = 2.69071e-12
+    C_OUT.C = 2.51951e-12
+    T_out.L = 21.1248e-03
+    T_out.W = 3.62841e-03
+    TL_in.L = 20.7474e-03
+    TL_in.W = 10.2771e-03
+
+SP Optim1[1].SP1[257] <Analogica_3_lib:Prueba1:schematic>  optIter=257  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #257:
+  CurrentEF: 1.89785823918854
+  Optimization variables:
+    C_In.C = 2.77093e-12
+    C_OUT.C = 2.53674e-12
+    T_out.L = 21.2064e-03
+    T_out.W = 3.6823e-03
+    TL_in.L = 20.7778e-03
+    TL_in.W = 10.2789e-03
+
+SP Optim1[1].SP1[258] <Analogica_3_lib:Prueba1:schematic>  optIter=258  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #258:
+  CurrentEF: 1.89783367570525
+  Optimization variables:
+    C_In.C = 2.74267e-12
+    C_OUT.C = 2.53061e-12
+    T_out.L = 21.1785e-03
+    T_out.W = 3.66373e-03
+    TL_in.L = 20.7677e-03
+    TL_in.W = 10.2788e-03
+
+SP Optim1[1].SP1[259] <Analogica_3_lib:Prueba1:schematic>  optIter=259  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #259:
+  CurrentEF: 1.89737115400896
+  Optimization variables:
+    C_In.C = 2.70752e-12
+    C_OUT.C = 2.52329e-12
+    T_out.L = 21.1423e-03
+    T_out.W = 3.63954e-03
+    TL_in.L = 20.7541e-03
+    TL_in.W = 10.2781e-03
+
+SP Optim1[1].SP1[260] <Analogica_3_lib:Prueba1:schematic>  optIter=260  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #260:
+  CurrentEF: 1.89730671769014
+  Optimization variables:
+    C_In.C = 2.67614e-12
+    C_OUT.C = 2.51659e-12
+    T_out.L = 21.1091e-03
+    T_out.W = 3.61806e-03
+    TL_in.L = 20.7423e-03
+    TL_in.W = 10.278e-03
+
+SP Optim1[1].SP1[261] <Analogica_3_lib:Prueba1:schematic>  optIter=261  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #261:
+  CurrentEF: 1.89659002248563
+  Optimization variables:
+    C_In.C = 2.65985e-12
+    C_OUT.C = 2.51346e-12
+    T_out.L = 21.0929e-03
+    T_out.W = 3.60716e-03
+    TL_in.L = 20.7368e-03
+    TL_in.W = 10.2778e-03
+
+SP Optim1[1].SP1[263] <Analogica_3_lib:Prueba1:schematic>  optIter=263  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #263:
+  CurrentEF: 1.89625427412661
+  Optimization variables:
+    C_In.C = 2.70719e-12
+    C_OUT.C = 2.5235e-12
+    T_out.L = 21.1398e-03
+    T_out.W = 3.63892e-03
+    TL_in.L = 20.754e-03
+    TL_in.W = 10.2787e-03
+
+SP Optim1[1].SP1[267] <Analogica_3_lib:Prueba1:schematic>  optIter=267  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #267:
+  CurrentEF: 1.8955476323917
+  Optimization variables:
+    C_In.C = 2.65049e-12
+    C_OUT.C = 2.51198e-12
+    T_out.L = 21.0834e-03
+    T_out.W = 3.60101e-03
+    TL_in.L = 20.7341e-03
+    TL_in.W = 10.2775e-03
+
+SP Optim1[1].SP1[290] <Analogica_3_lib:Prueba1:schematic>  optIter=290  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #290:
+  CurrentEF: 1.89543959434657
+  Optimization variables:
+    C_In.C = 2.67059e-12
+    C_OUT.C = 2.51642e-12
+    T_out.L = 21.104e-03
+    T_out.W = 3.61466e-03
+    TL_in.L = 20.7412e-03
+    TL_in.W = 10.2778e-03
+
+SP Optim1[1].SP1[292] <Analogica_3_lib:Prueba1:schematic>  optIter=292  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #292:
+  CurrentEF: 1.89495938796451
+  Optimization variables:
+    C_In.C = 2.68458e-12
+    C_OUT.C = 2.51895e-12
+    T_out.L = 21.1157e-03
+    T_out.W = 3.62304e-03
+    TL_in.L = 20.7453e-03
+    TL_in.W = 10.2781e-03
+
+SP Optim1[1].SP1[345] <Analogica_3_lib:Prueba1:schematic>  optIter=345  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #345:
+  CurrentEF: 1.89461081943253
+  Optimization variables:
+    C_In.C = 2.71092e-12
+    C_OUT.C = 2.5163e-12
+    T_out.L = 21.1442e-03
+    T_out.W = 3.61944e-03
+    TL_in.L = 20.7383e-03
+    TL_in.W = 10.2542e-03
+
+SP Optim1[1].SP1[355] <Analogica_3_lib:Prueba1:schematic>  optIter=355  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #355:
+  CurrentEF: 1.89454801052408
+  Optimization variables:
+    C_In.C = 2.71028e-12
+    C_OUT.C = 2.51745e-12
+    T_out.L = 21.1464e-03
+    T_out.W = 3.62537e-03
+    TL_in.L = 20.7446e-03
+    TL_in.W = 10.2565e-03
+
+SP Optim1[1].SP1[363] <Analogica_3_lib:Prueba1:schematic>  optIter=363  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #363:
+  CurrentEF: 1.89431297151903
+  Optimization variables:
+    C_In.C = 2.7082e-12
+    C_OUT.C = 2.51535e-12
+    T_out.L = 21.1417e-03
+    T_out.W = 3.61982e-03
+    TL_in.L = 20.7427e-03
+    TL_in.W = 10.256e-03
+
+SP Optim1[1].SP1[375] <Analogica_3_lib:Prueba1:schematic>  optIter=375  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #375:
+  CurrentEF: 1.89422750552501
+  Optimization variables:
+    C_In.C = 2.7067e-12
+    C_OUT.C = 2.51579e-12
+    T_out.L = 21.1403e-03
+    T_out.W = 3.62073e-03
+    TL_in.L = 20.7441e-03
+    TL_in.W = 10.2584e-03
+
+SP Optim1[1].SP1[377] <Analogica_3_lib:Prueba1:schematic>  optIter=377  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #377:
+  CurrentEF: 1.89411975038739
+  Optimization variables:
+    C_In.C = 2.70603e-12
+    C_OUT.C = 2.51581e-12
+    T_out.L = 21.1398e-03
+    T_out.W = 3.62129e-03
+    TL_in.L = 20.7438e-03
+    TL_in.W = 10.2582e-03
+
+SP Optim1[1].SP1[390] <Analogica_3_lib:Prueba1:schematic>  optIter=390  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #390:
+  CurrentEF: 1.89409496507345
+  Optimization variables:
+    C_In.C = 2.70498e-12
+    C_OUT.C = 2.51583e-12
+    T_out.L = 21.1394e-03
+    T_out.W = 3.6212e-03
+    TL_in.L = 20.7437e-03
+    TL_in.W = 10.2581e-03
+
+SP Optim1[1].SP1[395] <Analogica_3_lib:Prueba1:schematic>  optIter=395  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #395:
+  CurrentEF: 1.89405875625395
+  Optimization variables:
+    C_In.C = 2.70481e-12
+    C_OUT.C = 2.51583e-12
+    T_out.L = 21.1391e-03
+    T_out.W = 3.62083e-03
+    TL_in.L = 20.7433e-03
+    TL_in.W = 10.2577e-03
+
+SP Optim1[1].SP1[396] <Analogica_3_lib:Prueba1:schematic>  optIter=396  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #396:
+  CurrentEF: 1.89404229786261
+  Optimization variables:
+    C_In.C = 2.70432e-12
+    C_OUT.C = 2.51581e-12
+    T_out.L = 21.1385e-03
+    T_out.W = 3.62066e-03
+    TL_in.L = 20.7433e-03
+    TL_in.W = 10.2578e-03
+
+SP Optim1[1].SP1[404] <Analogica_3_lib:Prueba1:schematic>  optIter=404  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #404:
+  CurrentEF: 1.89400150896448
+  Optimization variables:
+    C_In.C = 2.70354e-12
+    C_OUT.C = 2.5158e-12
+    T_out.L = 21.1383e-03
+    T_out.W = 3.62071e-03
+    TL_in.L = 20.7434e-03
+    TL_in.W = 10.2577e-03
+
+SP Optim1[1].SP1[405] <Analogica_3_lib:Prueba1:schematic>  optIter=405  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #405:
+  CurrentEF: 1.89391099338455
+  Optimization variables:
+    C_In.C = 2.70069e-12
+    C_OUT.C = 2.516e-12
+    T_out.L = 21.137e-03
+    T_out.W = 3.62093e-03
+    TL_in.L = 20.743e-03
+    TL_in.W = 10.2573e-03
+
+SP Optim1[1].SP1[409] <Analogica_3_lib:Prueba1:schematic>  optIter=409  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #409:
+  CurrentEF: 1.89381858217813
+  Optimization variables:
+    C_In.C = 2.69855e-12
+    C_OUT.C = 2.51594e-12
+    T_out.L = 21.1358e-03
+    T_out.W = 3.62094e-03
+    TL_in.L = 20.7422e-03
+    TL_in.W = 10.2565e-03
+
+SP Optim1[1].SP1[411] <Analogica_3_lib:Prueba1:schematic>  optIter=411  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #411:
+  CurrentEF: 1.89378498839308
+  Optimization variables:
+    C_In.C = 2.69339e-12
+    C_OUT.C = 2.51601e-12
+    T_out.L = 21.1338e-03
+    T_out.W = 3.62102e-03
+    TL_in.L = 20.7409e-03
+    TL_in.W = 10.2556e-03
+
+SP Optim1[1].SP1[412] <Analogica_3_lib:Prueba1:schematic>  optIter=412  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #412:
+  CurrentEF: 1.89375984217778
+  Optimization variables:
+    C_In.C = 2.68934e-12
+    C_OUT.C = 2.516e-12
+    T_out.L = 21.1322e-03
+    T_out.W = 3.62094e-03
+    TL_in.L = 20.7398e-03
+    TL_in.W = 10.2547e-03
+
+SP Optim1[1].SP1[413] <Analogica_3_lib:Prueba1:schematic>  optIter=413  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #413:
+  CurrentEF: 1.8937397303969
+  Optimization variables:
+    C_In.C = 2.68793e-12
+    C_OUT.C = 2.516e-12
+    T_out.L = 21.1312e-03
+    T_out.W = 3.62036e-03
+    TL_in.L = 20.7389e-03
+    TL_in.W = 10.2543e-03
+
+SP Optim1[1].SP1[414] <Analogica_3_lib:Prueba1:schematic>  optIter=414  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #414:
+  CurrentEF: 1.89369304309351
+  Optimization variables:
+    C_In.C = 2.68701e-12
+    C_OUT.C = 2.51598e-12
+    T_out.L = 21.1308e-03
+    T_out.W = 3.62028e-03
+    TL_in.L = 20.7388e-03
+    TL_in.W = 10.254e-03
+
+SP Optim1[1].SP1[416] <Analogica_3_lib:Prueba1:schematic>  optIter=416  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #416:
+  CurrentEF: 1.89335572770971
+  Optimization variables:
+    C_In.C = 2.67829e-12
+    C_OUT.C = 2.51585e-12
+    T_out.L = 21.1263e-03
+    T_out.W = 3.61961e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2517e-03
+
+SP Optim1[1].SP1[417] <Analogica_3_lib:Prueba1:schematic>  optIter=417  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #417:
+  CurrentEF: 1.89331304812505
+  Optimization variables:
+    C_In.C = 2.6793e-12
+    C_OUT.C = 2.51609e-12
+    T_out.L = 21.1266e-03
+    T_out.W = 3.61977e-03
+    TL_in.L = 20.7372e-03
+    TL_in.W = 10.2517e-03
+
+SP Optim1[1].SP1[430] <Analogica_3_lib:Prueba1:schematic>  optIter=430  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #430:
+  CurrentEF: 1.89316226310735
+  Optimization variables:
+    C_In.C = 2.67223e-12
+    C_OUT.C = 2.51513e-12
+    T_out.L = 21.1228e-03
+    T_out.W = 3.61887e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.251e-03
+
+SP Optim1[1].SP1[432] <Analogica_3_lib:Prueba1:schematic>  optIter=432  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #432:
+  CurrentEF: 1.89315322701301
+  Optimization variables:
+    C_In.C = 2.6749e-12
+    C_OUT.C = 2.51571e-12
+    T_out.L = 21.1242e-03
+    T_out.W = 3.6194e-03
+    TL_in.L = 20.7372e-03
+    TL_in.W = 10.2512e-03
+
+SP Optim1[1].SP1[436] <Analogica_3_lib:Prueba1:schematic>  optIter=436  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #436:
+  CurrentEF: 1.89306442477055
+  Optimization variables:
+    C_In.C = 2.67689e-12
+    C_OUT.C = 2.5158e-12
+    T_out.L = 21.1245e-03
+    T_out.W = 3.6196e-03
+    TL_in.L = 20.7369e-03
+    TL_in.W = 10.2511e-03
+
+SP Optim1[1].SP1[438] <Analogica_3_lib:Prueba1:schematic>  optIter=438  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #438:
+  CurrentEF: 1.89304550785924
+  Optimization variables:
+    C_In.C = 2.67541e-12
+    C_OUT.C = 2.51575e-12
+    T_out.L = 21.1239e-03
+    T_out.W = 3.6194e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2511e-03
+
+SP Optim1[1].SP1[445] <Analogica_3_lib:Prueba1:schematic>  optIter=445  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #445:
+  CurrentEF: 1.89298333230593
+  Optimization variables:
+    C_In.C = 2.67504e-12
+    C_OUT.C = 2.51576e-12
+    T_out.L = 21.1237e-03
+    T_out.W = 3.61949e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2508e-03
+
+SP Optim1[1].SP1[446] <Analogica_3_lib:Prueba1:schematic>  optIter=446  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #446:
+  CurrentEF: 1.89296632418347
+  Optimization variables:
+    C_In.C = 2.67513e-12
+    C_OUT.C = 2.5158e-12
+    T_out.L = 21.1238e-03
+    T_out.W = 3.61965e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2505e-03
+
+SP Optim1[1].SP1[447] <Analogica_3_lib:Prueba1:schematic>  optIter=447  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #447:
+  CurrentEF: 1.89295437255476
+  Optimization variables:
+    C_In.C = 2.67334e-12
+    C_OUT.C = 2.51581e-12
+    T_out.L = 21.1233e-03
+    T_out.W = 3.61973e-03
+    TL_in.L = 20.7379e-03
+    TL_in.W = 10.2504e-03
+
+SP Optim1[1].SP1[515] <Analogica_3_lib:Prueba1:schematic>  optIter=515  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #515:
+  CurrentEF: 1.89288059759161
+  Optimization variables:
+    C_In.C = 2.67269e-12
+    C_OUT.C = 2.51564e-12
+    T_out.L = 21.1225e-03
+    T_out.W = 3.6197e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2503e-03
+
+SP Optim1[1].SP1[521] <Analogica_3_lib:Prueba1:schematic>  optIter=521  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #521:
+  CurrentEF: 1.89286939436209
+  Optimization variables:
+    C_In.C = 2.67246e-12
+    C_OUT.C = 2.51587e-12
+    T_out.L = 21.1224e-03
+    T_out.W = 3.61997e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2505e-03
+
+SP Optim1[1].SP1[523] <Analogica_3_lib:Prueba1:schematic>  optIter=523  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #523:
+  CurrentEF: 1.89284309369227
+  Optimization variables:
+    C_In.C = 2.67248e-12
+    C_OUT.C = 2.51616e-12
+    T_out.L = 21.1221e-03
+    T_out.W = 3.62004e-03
+    TL_in.L = 20.7369e-03
+    TL_in.W = 10.2508e-03
+
+SP Optim1[1].SP1[528] <Analogica_3_lib:Prueba1:schematic>  optIter=528  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #528:
+  CurrentEF: 1.89277826177126
+  Optimization variables:
+    C_In.C = 2.6725e-12
+    C_OUT.C = 2.51626e-12
+    T_out.L = 21.1218e-03
+    T_out.W = 3.62004e-03
+    TL_in.L = 20.7372e-03
+    TL_in.W = 10.251e-03
+
+SP Optim1[1].SP1[536] <Analogica_3_lib:Prueba1:schematic>  optIter=536  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #536:
+  CurrentEF: 1.89275754676877
+  Optimization variables:
+    C_In.C = 2.67234e-12
+    C_OUT.C = 2.51648e-12
+    T_out.L = 21.1214e-03
+    T_out.W = 3.62006e-03
+    TL_in.L = 20.7368e-03
+    TL_in.W = 10.2513e-03
+
+SP Optim1[1].SP1[553] <Analogica_3_lib:Prueba1:schematic>  optIter=553  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #553:
+  CurrentEF: 1.89275521959002
+  Optimization variables:
+    C_In.C = 2.67228e-12
+    C_OUT.C = 2.51627e-12
+    T_out.L = 21.1215e-03
+    T_out.W = 3.62001e-03
+    TL_in.L = 20.7372e-03
+    TL_in.W = 10.2513e-03
+
+SP Optim1[1].SP1[564] <Analogica_3_lib:Prueba1:schematic>  optIter=564  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #564:
+  CurrentEF: 1.89274532828158
+  Optimization variables:
+    C_In.C = 2.67217e-12
+    C_OUT.C = 2.51626e-12
+    T_out.L = 21.1213e-03
+    T_out.W = 3.61984e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2513e-03
+
+SP Optim1[1].SP1[566] <Analogica_3_lib:Prueba1:schematic>  optIter=566  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #566:
+  CurrentEF: 1.89274414658643
+  Optimization variables:
+    C_In.C = 2.67213e-12
+    C_OUT.C = 2.51631e-12
+    T_out.L = 21.1213e-03
+    T_out.W = 3.62e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2514e-03
+
+SP Optim1[1].SP1[568] <Analogica_3_lib:Prueba1:schematic>  optIter=568  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #568:
+  CurrentEF: 1.89273305246159
+  Optimization variables:
+    C_In.C = 2.67184e-12
+    C_OUT.C = 2.51639e-12
+    T_out.L = 21.1211e-03
+    T_out.W = 3.61985e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2514e-03
+
+SP Optim1[1].SP1[575] <Analogica_3_lib:Prueba1:schematic>  optIter=575  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #575:
+  CurrentEF: 1.89272180781413
+  Optimization variables:
+    C_In.C = 2.67179e-12
+    C_OUT.C = 2.5163e-12
+    T_out.L = 21.121e-03
+    T_out.W = 3.61985e-03
+    TL_in.L = 20.7372e-03
+    TL_in.W = 10.2514e-03
+
+SP Optim1[1].SP1[576] <Analogica_3_lib:Prueba1:schematic>  optIter=576  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #576:
+  CurrentEF: 1.89271947325775
+  Optimization variables:
+    C_In.C = 2.67168e-12
+    C_OUT.C = 2.51624e-12
+    T_out.L = 21.1208e-03
+    T_out.W = 3.61954e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2514e-03
+
+SP Optim1[1].SP1[579] <Analogica_3_lib:Prueba1:schematic>  optIter=579  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #579:
+  CurrentEF: 1.89271449426511
+  Optimization variables:
+    C_In.C = 2.67161e-12
+    C_OUT.C = 2.51614e-12
+    T_out.L = 21.1207e-03
+    T_out.W = 3.61935e-03
+    TL_in.L = 20.737e-03
+    TL_in.W = 10.2514e-03
+
+SP Optim1[1].SP1[580] <Analogica_3_lib:Prueba1:schematic>  optIter=580  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #580:
+  CurrentEF: 1.8926958016471
+  Optimization variables:
+    C_In.C = 2.67143e-12
+    C_OUT.C = 2.51609e-12
+    T_out.L = 21.1205e-03
+    T_out.W = 3.61929e-03
+    TL_in.L = 20.7371e-03
+    TL_in.W = 10.2515e-03
+
+SP Optim1[1].SP1[581] <Analogica_3_lib:Prueba1:schematic>  optIter=581  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #581:
+  CurrentEF: 1.89267644219568
+  Optimization variables:
+    C_In.C = 2.67118e-12
+    C_OUT.C = 2.51594e-12
+    T_out.L = 21.12e-03
+    T_out.W = 3.61899e-03
+    TL_in.L = 20.7374e-03
+    TL_in.W = 10.2517e-03
+
+SP Optim1[1].SP1[583] <Analogica_3_lib:Prueba1:schematic>  optIter=583  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #583:
+  CurrentEF: 1.89266073046446
+  Optimization variables:
+    C_In.C = 2.67105e-12
+    C_OUT.C = 2.51583e-12
+    T_out.L = 21.1199e-03
+    T_out.W = 3.61903e-03
+    TL_in.L = 20.7376e-03
+    TL_in.W = 10.2518e-03
+
+SP Optim1[1].SP1[586] <Analogica_3_lib:Prueba1:schematic>  optIter=586  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #586:
+  CurrentEF: 1.89264955073783
+  Optimization variables:
+    C_In.C = 2.67077e-12
+    C_OUT.C = 2.51576e-12
+    T_out.L = 21.1194e-03
+    T_out.W = 3.61876e-03
+    TL_in.L = 20.7376e-03
+    TL_in.W = 10.2519e-03
+
+SP Optim1[1].SP1[587] <Analogica_3_lib:Prueba1:schematic>  optIter=587  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #587:
+  CurrentEF: 1.89263490090066
+  Optimization variables:
+    C_In.C = 2.66999e-12
+    C_OUT.C = 2.51528e-12
+    T_out.L = 21.1182e-03
+    T_out.W = 3.6181e-03
+    TL_in.L = 20.7382e-03
+    TL_in.W = 10.2525e-03
+
+SP Optim1[1].SP1[590] <Analogica_3_lib:Prueba1:schematic>  optIter=590  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #590:
+  CurrentEF: 1.89258480874546
+  Optimization variables:
+    C_In.C = 2.67032e-12
+    C_OUT.C = 2.51559e-12
+    T_out.L = 21.1187e-03
+    T_out.W = 3.61821e-03
+    TL_in.L = 20.7373e-03
+    TL_in.W = 10.2522e-03
+
+SP Optim1[1].SP1[591] <Analogica_3_lib:Prueba1:schematic>  optIter=591  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #591:
+  CurrentEF: 1.89256222509584
+  Optimization variables:
+    C_In.C = 2.6698e-12
+    C_OUT.C = 2.51527e-12
+    T_out.L = 21.1181e-03
+    T_out.W = 3.61768e-03
+    TL_in.L = 20.7374e-03
+    TL_in.W = 10.2524e-03
+
+SP Optim1[1].SP1[593] <Analogica_3_lib:Prueba1:schematic>  optIter=593  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #593:
+  CurrentEF: 1.89249662719881
+  Optimization variables:
+    C_In.C = 2.66917e-12
+    C_OUT.C = 2.51483e-12
+    T_out.L = 21.1172e-03
+    T_out.W = 3.61713e-03
+    TL_in.L = 20.7381e-03
+    TL_in.W = 10.2528e-03
+
+SP Optim1[1].SP1[595] <Analogica_3_lib:Prueba1:schematic>  optIter=595  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #595:
+  CurrentEF: 1.89239062185988
+  Optimization variables:
+    C_In.C = 2.66801e-12
+    C_OUT.C = 2.5142e-12
+    T_out.L = 21.1155e-03
+    T_out.W = 3.61587e-03
+    TL_in.L = 20.7388e-03
+    TL_in.W = 10.2535e-03
+
+SP Optim1[1].SP1[596] <Analogica_3_lib:Prueba1:schematic>  optIter=596  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #596:
+  CurrentEF: 1.89232117270966
+  Optimization variables:
+    C_In.C = 2.66644e-12
+    C_OUT.C = 2.51341e-12
+    T_out.L = 21.1134e-03
+    T_out.W = 3.61428e-03
+    TL_in.L = 20.7397e-03
+    TL_in.W = 10.2545e-03
+
+SP Optim1[1].SP1[599] <Analogica_3_lib:Prueba1:schematic>  optIter=599  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #599:
+  CurrentEF: 1.89229702708743
+  Optimization variables:
+    C_In.C = 2.66153e-12
+    C_OUT.C = 2.51047e-12
+    T_out.L = 21.1061e-03
+    T_out.W = 3.60973e-03
+    TL_in.L = 20.744e-03
+    TL_in.W = 10.2577e-03
+
+SP Optim1[1].SP1[651] <Analogica_3_lib:Prueba1:schematic>  optIter=651  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #651:
+  CurrentEF: 1.89205652827878
+  Optimization variables:
+    C_In.C = 2.6609e-12
+    C_OUT.C = 2.51095e-12
+    T_out.L = 21.1076e-03
+    T_out.W = 3.61283e-03
+    TL_in.L = 20.7447e-03
+    TL_in.W = 10.2581e-03
+
+SP Optim1[1].SP1[656] <Analogica_3_lib:Prueba1:schematic>  optIter=656  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #656:
+  CurrentEF: 1.89203953644244
+  Optimization variables:
+    C_In.C = 2.66003e-12
+    C_OUT.C = 2.51001e-12
+    T_out.L = 21.1078e-03
+    T_out.W = 3.61102e-03
+    TL_in.L = 20.7449e-03
+    TL_in.W = 10.2572e-03
+
+SP Optim1[1].SP1[662] <Analogica_3_lib:Prueba1:schematic>  optIter=662  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #662:
+  CurrentEF: 1.89193843070852
+  Optimization variables:
+    C_In.C = 2.66023e-12
+    C_OUT.C = 2.51006e-12
+    T_out.L = 21.1071e-03
+    T_out.W = 3.61043e-03
+    TL_in.L = 20.7443e-03
+    TL_in.W = 10.2571e-03
+
+SP Optim1[1].SP1[665] <Analogica_3_lib:Prueba1:schematic>  optIter=665  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #665:
+  CurrentEF: 1.89190891296992
+  Optimization variables:
+    C_In.C = 2.6605e-12
+    C_OUT.C = 2.50893e-12
+    T_out.L = 21.1066e-03
+    T_out.W = 3.60921e-03
+    TL_in.L = 20.7448e-03
+    TL_in.W = 10.2567e-03
+
+SP Optim1[1].SP1[669] <Analogica_3_lib:Prueba1:schematic>  optIter=669  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #669:
+  CurrentEF: 1.89190249157183
+  Optimization variables:
+    C_In.C = 2.66045e-12
+    C_OUT.C = 2.50798e-12
+    T_out.L = 21.106e-03
+    T_out.W = 3.60749e-03
+    TL_in.L = 20.7452e-03
+    TL_in.W = 10.2567e-03
+
+SP Optim1[1].SP1[670] <Analogica_3_lib:Prueba1:schematic>  optIter=670  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #670:
+  CurrentEF: 1.89189742258538
+  Optimization variables:
+    C_In.C = 2.66073e-12
+    C_OUT.C = 2.50864e-12
+    T_out.L = 21.1054e-03
+    T_out.W = 3.6073e-03
+    TL_in.L = 20.7443e-03
+    TL_in.W = 10.2569e-03
+
+SP Optim1[1].SP1[680] <Analogica_3_lib:Prueba1:schematic>  optIter=680  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #680:
+  CurrentEF: 1.89184693205715
+  Optimization variables:
+    C_In.C = 2.66028e-12
+    C_OUT.C = 2.5088e-12
+    T_out.L = 21.1056e-03
+    T_out.W = 3.60829e-03
+    TL_in.L = 20.7446e-03
+    TL_in.W = 10.2573e-03
+
+SP Optim1[1].SP1[681] <Analogica_3_lib:Prueba1:schematic>  optIter=681  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #681:
+  CurrentEF: 1.89180400244189
+  Optimization variables:
+    C_In.C = 2.66025e-12
+    C_OUT.C = 2.50898e-12
+    T_out.L = 21.1054e-03
+    T_out.W = 3.60843e-03
+    TL_in.L = 20.7448e-03
+    TL_in.W = 10.2575e-03
+
+SP Optim1[1].SP1[695] <Analogica_3_lib:Prueba1:schematic>  optIter=695  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #695:
+  CurrentEF: 1.89180077319056
+  Optimization variables:
+    C_In.C = 2.6603e-12
+    C_OUT.C = 2.50913e-12
+    T_out.L = 21.1053e-03
+    T_out.W = 3.60835e-03
+    TL_in.L = 20.7444e-03
+    TL_in.W = 10.2576e-03
+
+SP Optim1[1].SP1[721] <Analogica_3_lib:Prueba1:schematic>  optIter=721  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #721:
+  CurrentEF: 1.8917923001369
+  Optimization variables:
+    C_In.C = 2.66032e-12
+    C_OUT.C = 2.50913e-12
+    T_out.L = 21.1052e-03
+    T_out.W = 3.60839e-03
+    TL_in.L = 20.7443e-03
+    TL_in.W = 10.2576e-03
+
+SP Optim1[1].SP1[727] <Analogica_3_lib:Prueba1:schematic>  optIter=727  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #727:
+  CurrentEF: 1.89179078232733
+  Optimization variables:
+    C_In.C = 2.66012e-12
+    C_OUT.C = 2.50896e-12
+    T_out.L = 21.1052e-03
+    T_out.W = 3.60823e-03
+    TL_in.L = 20.7444e-03
+    TL_in.W = 10.2575e-03
+
+SP Optim1[1].SP1[732] <Analogica_3_lib:Prueba1:schematic>  optIter=732  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #732:
+  CurrentEF: 1.89178367548817
+  Optimization variables:
+    C_In.C = 2.66016e-12
+    C_OUT.C = 2.50907e-12
+    T_out.L = 21.1051e-03
+    T_out.W = 3.60833e-03
+    TL_in.L = 20.7444e-03
+    TL_in.W = 10.2576e-03
+
+SP Optim1[1].SP1[739] <Analogica_3_lib:Prueba1:schematic>  optIter=739  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #739:
+  CurrentEF: 1.89178058519848
+  Optimization variables:
+    C_In.C = 2.65997e-12
+    C_OUT.C = 2.50906e-12
+    T_out.L = 21.105e-03
+    T_out.W = 3.60835e-03
+    TL_in.L = 20.7444e-03
+    TL_in.W = 10.2577e-03
+
+SP Optim1[1].SP1[740] <Analogica_3_lib:Prueba1:schematic>  optIter=740  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #740:
+  CurrentEF: 1.89177709827836
+  Optimization variables:
+    C_In.C = 2.65999e-12
+    C_OUT.C = 2.5092e-12
+    T_out.L = 21.1049e-03
+    T_out.W = 3.60839e-03
+    TL_in.L = 20.7442e-03
+    TL_in.W = 10.2579e-03
+
+SP Optim1[1].SP1[741] <Analogica_3_lib:Prueba1:schematic>  optIter=741  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #741:
+  CurrentEF: 1.8917501730113
+  Optimization variables:
+    C_In.C = 2.65991e-12
+    C_OUT.C = 2.50935e-12
+    T_out.L = 21.1047e-03
+    T_out.W = 3.60851e-03
+    TL_in.L = 20.7441e-03
+    TL_in.W = 10.258e-03
+
+SP Optim1[1].SP1[743] <Analogica_3_lib:Prueba1:schematic>  optIter=743  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #743:
+  CurrentEF: 1.89174679814932
+  Optimization variables:
+    C_In.C = 2.65973e-12
+    C_OUT.C = 2.50932e-12
+    T_out.L = 21.1045e-03
+    T_out.W = 3.6085e-03
+    TL_in.L = 20.744e-03
+    TL_in.W = 10.258e-03
+
+SP Optim1[1].SP1[748] <Analogica_3_lib:Prueba1:schematic>  optIter=748  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #748:
+  CurrentEF: 1.89173407664466
+  Optimization variables:
+    C_In.C = 2.65963e-12
+    C_OUT.C = 2.5096e-12
+    T_out.L = 21.1043e-03
+    T_out.W = 3.60863e-03
+    TL_in.L = 20.744e-03
+    TL_in.W = 10.2582e-03
+
+SP Optim1[1].SP1[749] <Analogica_3_lib:Prueba1:schematic>  optIter=749  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #749:
+  CurrentEF: 1.89172130501946
+  Optimization variables:
+    C_In.C = 2.6595e-12
+    C_OUT.C = 2.5097e-12
+    T_out.L = 21.1042e-03
+    T_out.W = 3.60862e-03
+    TL_in.L = 20.7439e-03
+    TL_in.W = 10.2583e-03
+
+SP Optim1[1].SP1[807] <Analogica_3_lib:Prueba1:schematic>  optIter=807  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #807:
+  CurrentEF: 1.89155969123586
+  Optimization variables:
+    C_In.C = 2.65702e-12
+    C_OUT.C = 2.50795e-12
+    T_out.L = 21.1015e-03
+    T_out.W = 3.60642e-03
+    TL_in.L = 20.7458e-03
+    TL_in.W = 10.2591e-03
+
+SP Optim1[1].SP1[808] <Analogica_3_lib:Prueba1:schematic>  optIter=808  freq=(30 MHz->10 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iteration/Trial #808:
+  CurrentEF: 1.89155043302432
+  Optimization variables:
+    C_In.C = 2.65676e-12
+    C_OUT.C = 2.50808e-12
+    T_out.L = 21.1009e-03
+    T_out.W = 3.60632e-03
+    TL_in.L = 20.7456e-03
+    TL_in.W = 10.2592e-03
+Optim1[1] reached the iteration limit. 
+
+Resource usage:
+  Total stopwatch time     =   398.76 seconds.
+

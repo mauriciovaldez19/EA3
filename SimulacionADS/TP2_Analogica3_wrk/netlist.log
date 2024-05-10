@@ -1,17 +1,15 @@
 
-Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="TP2_Analogica3_lib:cell_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
-#include "C:/Users/Mauricio/Documents/ADS_Projects/Infineon_RF//circuit/models/RF.net"
-model MSub1 MSUB H=1.6 mm Er=4.3 Mur=1 Cond=1.0E+50 Hu=3.9e+034 mil T=0.05 mm TanD=0.002 Rough=0 mil DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
-Port:TermG1  N__3 0 Num=1 Z=50 Ohm Noise=yes 
-Port:TermG2  N__4 0 Num=2 Z=50 Ohm Noise=yes 
-MLIN2:T_IN  N__3 N__5 Subst="MSub1" W=8.083 mm L=18.107 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
-MLIN2:T_OUT  N__12 N__4 Subst="MSub1" W=2.705 mm L=18.992 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
-C:C_IN  N__5 0 C=4.28 pF 
-C:C_OUT  N__4 0 C=2.1 pF 
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Analogica_3_lib:Prueba5:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+model MSub1 MSUB H=1.6 mm Er=4.3 Mur=1 Cond=1.0E+50 Hu=3.9e+034 mil T=50 um TanD=0.005 Rough=0 mil DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+MLIN2:TL4  N__9 N__2 Subst="MSub1" W=3.194 mm L=15 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL3  N__11 N__4 Subst="MSub1" W=3.194 mm L=15 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:T_out  Vo_t N__9 Subst="MSub1" W=3.60632 mm noopt{ 3 mm to 5 mm } L=19.9882 mm tune{ 18 mm to 24 mm by 0.5 mm } opt{ 18 mm to 24 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MTAPER:Taper3  N__14 N__23 Subst="MSub1" W1=1 mm W2=4.0508 mm L=3 mm 
+MLIN2:Trafo_in  N__4 Vi_t Subst="MSub1" W=10.2592 mm noopt{ 5 mm to 15 mm } L=21.7538 mm tune{ 18 mm to 22 mm by 0.5 mm } opt{ 17 mm to 22 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
 S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
 SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
 
-SweepPlan: SP1_stim Start=30 MHz Stop=10.0 GHz Step=10 MHz 
+SweepPlan: SP1_stim Start=30 MHz Stop=10.0 GHz Lin=998 
 
 OutputPlan:SP1_Output \
       Type="Output" \
@@ -22,5 +20,61 @@ OutputPlan:SP1_Output \
 
 #load "python","LinearCollapse"
 Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
-#include "C:/Users/Mauricio/Documents/ADS_Projects/Infineon_RF//circuit/models/BFP640_cktName.net" 
-BFP640_cktName:SNP3 N__12 N__5 0 File="BFP640_VCE_1.5V_IC_37mA.s2p" Temp=25 InterpMode="linear" InterpDom="" ExtrapMode="constant" CheckPassivity=0 
+MLIN2:TL2  N__0 N__5 Subst="MSub1" W=3.194 mm L=15 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+C:C1  N__12 N__11 C=100 pF 
+MLIN2:TL1  N__6 N__12 Subst="MSub1" W=3.194 mm L=15 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap1  N__15 N__16 Subst="MSub1" W=3.194 mm S=0.5 mm 
+Port:Term1  N__6 0 Num=1 Z=50 Ohm Noise=yes 
+Port:Term2  N__5 0 Num=2 Z=50 Ohm Noise=yes 
+
+Optim:"Optim1" OptimType="random" ErrorForm="L2" MaxIters=808 P=2 DesiredError=0.0 StatusLevel=4 FinalAnalysis="None" NormalizeGoals=yes SetBestValues=yes SaveSolns=yes SaveGoals=yes SaveOptimVars=no UpdateDataset=yes SaveNominal=no SaveAllIterations=no UseAllOptVars=yes UseAllGoals=yes SaveCurrentEF=no InitialTemp=0.1 NumShootsPerIter=20 EnableCockpit=yes SaveAllTrials=no 
+
+OptimGoal:OptimGoal4 Expr="dB(S(2,1))" SimInstanceName="SP1" Weight=1 \
+IndepVar[1]="freq" \
+SpecLimitLine[1]="OptimGoal4_limit1" 
+SpecLimitLine:"OptimGoal4_limit1" Type="GreaterThan" Min=80 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.17 G IndepMax[1]=2.23 G 
+OptimGoal:OptimGoal3 Expr="dB(S(2,2))" SimInstanceName="SP1" Weight=1 \
+IndepVar[1]="freq" \
+SpecLimitLine[1]="OptimGoal3_limit1" 
+SpecLimitLine:"OptimGoal3_limit1" Type="LessThan" Max=-80 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.17 G IndepMax[1]=2.23 G 
+OptimGoal:OptimGoal2 Expr="dB(S(1,2))" SimInstanceName="SP1" Weight=1 \
+IndepVar[1]="freq" \
+SpecLimitLine[1]="OptimGoal2_limit1" 
+SpecLimitLine:"OptimGoal2_limit1" Type="LessThan" Max=-80 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.17 G IndepMax[1]=2.23 G 
+OptimGoal:OptimGoal1 Expr="dB(S(1,1))" SimInstanceName="SP1" Weight=1 \
+IndepVar[1]="freq" \
+SpecLimitLine[1]="OptimGoal1_limit1" 
+SpecLimitLine:"OptimGoal1_limit1" Type="LessThan" Max=-80 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.17 G IndepMax[1]=2.23 G 
+C:C2  N__2 N__0 C=100 pF 
+#include "C:/Users/Mauricio/Documents/ADS_Projects/Infineon_RF//circuit/models/BFP640F_cktName.net" 
+BFP640F_cktName:SNP4 Vo_t Vi_t 0 File="BFP640F_VCE_1.5V_IC_35mA.s2p" Temp=25 InterpMode="linear" InterpDom="" ExtrapMode="constant" CheckPassivity=0 
+MTAPER:Taper1  N__10 Vi_t Subst="MSub1" W1=1 mm W2=3.194 mm L=3 mm 
+MTAPER:Taper2  N__19 N__9 Subst="MSub1" W1=1 mm W2=3.194 mm L=3 mm 
+MLIN2:Cin  N__15 N__10 Subst="MSub1" W=3.194 mm L=8.45748 mm opt{ 6 mm to 16 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap2  N__16 N__13 Subst="MSub1" W=3.194 mm S=0.5 mm 
+MLOC2:TL5  N__13 Subst="MSub1" W=3.194 mm L=0 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:Cout  N__8 N__19 Subst="MSub1" W=3.194 mm L=8.64307 mm opt{ 5 mm to 15 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap3  N__18 N__17 Subst="MSub1" W=3.194 mm S=0.5 mm 
+MGAP:Gap4  N__8 N__18 Subst="MSub1" W=3.194 mm S=0.5 mm 
+MLOC2:TL6  N__17 Subst="MSub1" W=3.194 mm L=0 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:C_decoup  N__22 N__14 Subst="MSub1" W=4.0508 mm L=15.587 mm noopt{ 3 mm to 25 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap5  N__21 N__20 Subst="MSub1" W=4.0508 mm S=0.5 mm 
+MGAP:Gap6  N__22 N__21 Subst="MSub1" W=4.0508 mm S=0.5 mm 
+MLOC2:TL7  N__20 Subst="MSub1" W=4.0508 mm L=0 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:L_ch2  N__23 N__25 Subst="MSub1" W=2.387 mm L=16.097 mm noopt{ 3 mm to 25 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+R:R1  N__33 N__35 R=134 Ohm Noise=yes 
+MTAPER:Taper5  N__25 Vi_t Subst="MSub1" W1=1 mm W2=2.387 mm L=3 mm 
+MLOC2:TL8  N__27 Subst="MSub1" W=4.0508 mm L=0 mm Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:L_ch3  N__24 Vo_t Subst="MSub1" W=2.387 mm L=19.097 mm noopt{ 3 mm to 25 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap8  N__30 N__27 Subst="MSub1" W=4.0508 mm S=0.5 mm 
+MLIN2:C_decoup1  N__26 N__29 Subst="MSub1" W=4.0508 mm L=15.587 mm noopt{ 3 mm to 25 mm } Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MGAP:Gap7  N__26 N__30 Subst="MSub1" W=4.0508 mm S=0.5 mm 
+MTAPER:Taper6  N__29 N__24 Subst="MSub1" W1=1 mm W2=4.0508 mm L=3 mm 
+R:R2  N__33 N__23 R=10 kOhm Noise=yes 
+R:R3  N__35 N__24 R=100 Ohm Noise=yes 
+R:R4  N__23 0 R=10 kOhm Noise=yes 
+V_Source:SRC1  N__33 0 Type="V_DC" Vdc=5 V SaveCurrent=1 
